@@ -5,3 +5,14 @@
 inst/doc
 doc
 Meta
+data/
+
+# nextflow
+.nextflow.log*
+.nextflow/
+work/
+
+# results
+test/
+results/
+jupyter/
